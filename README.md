@@ -1,2 +1,1 @@
-# TinDog
-Tinder for Dogs &lt;3
+TinDog Starting Files
